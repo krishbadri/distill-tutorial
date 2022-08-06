@@ -7,4 +7,23 @@ description: |
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+## About Me
+My name is **Krish Badri** and I am a junior at Olentangy Liberty High School in Powell, Ohio. Some of my interests include playing tennis, learning math, and reading books.
+
+## About the Project
+
+My project, *An Analysis of The Relationship Between Car Fuel Efficiency and Weight*, is an analysis of the relationship between fuel efficiency and weight of a car, measured in miles per gallon and thousands of pounds, respectively. Using the R Programming Language, it maps data points from the mtcars dataset to a scatter plot and draws a line of best fit with a linear correlation between the variables.
+
+### Goals
+* Realize the relationship between the two variables
+  + May not be straightforward due to nonlinearity
+* Predict further data points with a line of best fit
+
+“This is data science”  
+~Preceptor  
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info)
+
+
+
+
 
